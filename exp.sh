@@ -1,0 +1,1 @@
+python ImageClassification.py --name letnet --model lenet --gpu_ids 2
