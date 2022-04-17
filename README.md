@@ -8,3 +8,4 @@ python ImageClassification.py --name my_exp --model resnet50 --gpu_id 2
 ```
 
 for more detail, please see code in ImageClassification.py
+![image](https://github.com/Andrew0613/Cifar10_classification/blob/main/None_acc.png)
